@@ -1,0 +1,86 @@
+[
+  {
+    "description": "helm charts for wbstack deployments",
+    "name": "charts"
+  },
+  {
+    "description": "",
+    "name": ".github"
+  },
+  {
+    "description": "MediaWiki application with extensions, skins, libraries and modifications for wbstack",
+    "name": "mediawiki"
+  },
+  {
+    "description": "Main Laravel based API for wbstack.com",
+    "name": "api"
+  },
+  {
+    "description": "VuePress Docs site for WBStack",
+    "name": "docs"
+  },
+  {
+    "description": "Main VueJS based site for wbstack.com",
+    "name": "ui"
+  },
+  {
+    "description": "Service that sits between a client and a query service, routing the queries to the correct backend service or namespace",
+    "name": "queryservice-gateway"
+  },
+  {
+    "description": "Migration repository for wbstack.com to wikibase.cloud",
+    "name": "migrate"
+  },
+  {
+    "description": "Fork of https://github.com/magnusmanske/quickstatements with modifications for wbstack",
+    "name": "quickstatements"
+  },
+  {
+    "description": "Fork of https://bitbucket.org/magnusmanske/widar with modifications for wbstack",
+    "name": "widar"
+  },
+  {
+    "description": "Fork of https://github.com/magnusmanske/cradle with modifications for wbstack",
+    "name": "cradle"
+  },
+  {
+    "description": "A custom updater wrapping the regular Wikidata updater for updating multiple sites in multiple namespaces.",
+    "name": "queryservice-updater"
+  },
+  {
+    "description": "Fork of https://github.com/wikimedia/wikidata-query-gui with modifications for wbstack",
+    "name": "queryservice-ui"
+  },
+  {
+    "description": "Queryservice, based on the Wikidata query service, with very few modifications.",
+    "name": "queryservice"
+  },
+  {
+    "description": "A small Docker image that can be used in image build layers",
+    "name": "docker-build-util"
+  },
+  {
+    "description": "Cloud and Kubernetes configuration for deployment for wbstack.com",
+    "name": "deploy"
+  },
+  {
+    "description": "Temporary: Contains artefacts for use in the mediawiki repository and deployment",
+    "name": "mediawiki-tars"
+  },
+  {
+    "description": "Fork of https://bitbucket.org/magnusmanske/magnustools with modifications for wbstack",
+    "name": "magnustools"
+  },
+  {
+    "description": "Generate a randomized htpasswd secret for use with HTTP basic auth",
+    "name": "terraform-kubernetes-basic-auth"
+  },
+  {
+    "description": "Powers the MediaWiki extension SpamBlacklist for wbstack sites",
+    "name": "mediawiki-spam-lists"
+  },
+  {
+    "description": "A MediaWiki extension for wbstack.com with some wikibase specific wikitext functionality",
+    "name": "mediawiki-extensions-WikibaseInWikitext"
+  }
+]
